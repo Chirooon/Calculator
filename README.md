@@ -15,4 +15,4 @@ I used python 3.10 if you want to use this [download it here](https://www.python
 
 # For help and requests
 
-[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
