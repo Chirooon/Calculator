@@ -13,7 +13,7 @@ def divide(a, b):
     else:
         return "Error: Division by zero is not allowed"
 
-print("Welcome to Felix's calculator!")
+print("Welcome to Chirooon's calculator!")
 
 while True:
     print("Choose what you want to calculate:")
